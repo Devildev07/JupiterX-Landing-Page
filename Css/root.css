@@ -1,0 +1,77 @@
+:root {
+    --default-font-family: "Poppins", sans-serif;
+    --color-gradient-start: #de3ffb23;
+    --color-gradient-end: #4657fc08;
+    --color-blurCard-background: #ffffff99;
+    --color-blurCard-hover-background: #ffffffd1;
+    --color-blurCard-text: black;
+    --color-blurCard-border: white;
+    --color-blurCard-shadow: #00000003;
+    --color-footer-text: #9a9999;
+
+
+
+    --color-white: white;
+    --color1: #430fee;
+    --color2: #3600e8;
+    --color3: #2400c8;
+    --color4: #2100bc;
+    --color5: #1e00b1;
+    --color6: #1c00aa;
+    --color7: #1a00a2;
+    --color8: #170099;
+    --color9: #15008f;
+    --color10: #000000;
+
+    --color-blue: #3613FA;
+
+    --color-purple-1: #B939FF;
+    --color-purple-2: #A000E5;
+    --color-purple-3: #8C00CC;
+    --color-purple-4: #7800B3;
+    --color-purple-5: #640099;
+    --color-purple-6: #500080;
+    --color-purple-7: #3C0066;
+    --color-purple-8: #28004D;
+    --color-purple-9: #140033;
+    --color-purple-10: #00001A;
+
+    --color-black: #111111;
+    --color-black1: #161618;
+    --color-black2: #444444;
+    --secondary-light: #F5F5F7;
+    --secondary-light1: #0000004d;
+    --color-grey: #777777;
+    --color-grey1: #c4c3c356;
+    --color-pink: #FF96AA;
+    --color-pink1: #BE6A7A;
+    --color-pink2: #FA89CA;
+    --color-pink3: #DA6CAB;
+    --color-pink4: #FC4CDA80;
+    --color-pink5: #de2bae1a;
+    --color-yellow: #F4D37D;
+    --color-yellow1: #BDA464;
+    --color-green: #83E4C4;
+    --color-green1: #71C6A9;
+    --color-green2: #C6FFEC;
+    --color-light-green: #C4E275;
+    --color-light-green1: #A0C341;
+    --color-light-blue: #79DDDE;
+    --color-light-blue1: #5CBDBE;
+    --color-light-blue2: #ADFEFF;
+    --color-light-blue3: #24edff1a;
+    --color-cyan: #2CE5E5;
+    --color-purple: #B939FF;
+    --color-purple1: #7D00C1;
+
+    /* gradient */
+    --gradient-bg: linear-gradient(140deg, #3613FA 12%, #FC4CDA 100%);
+    --gradient-bg1: linear-gradient(270deg, #FC4CDA 0%, #3613FA 100%);
+    --gradient-bg2: linear-gradient(90deg, #3613fa, #fc4cda, #3613fa, #fc4cda);
+    --gradient-bg3: linear-gradient(90deg, var(--color-cyan), var(--color-blue), var(--color-cyan), var(--color-blue));
+    --gradient-btn-background: #fc4cda;
+    --gradient-btn-background-img: linear-gradient(90deg,
+            #fc4cda 2%,
+            #3613fa 100%);
+    --gradient-btn-box-shadow: 0px 4px 10px 0px #3613fa42;
+}

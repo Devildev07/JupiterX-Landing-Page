@@ -1,0 +1,47 @@
+/* AnimatedGradientBgLeft */
+@keyframes AnimatedGradientBgLeft {
+    0% {
+        background-position: 0 0
+    }
+
+    100% {
+        background-position: 100% 0
+    }
+}
+
+
+/* moveSlideshow */
+@keyframes moveSlideshow {
+
+    100% {
+        transform: translateX(-1200px);
+    }
+}
+
+/* upDownAnimate */
+@keyframes upDownAnimate {
+    0% {
+        transform: translateY(0);
+        animation-timing-function: ease-in;
+    }
+
+    25% {
+        transform: translateY(-10%);
+        animation-timing-function: ease-out;
+    }
+
+    50% {
+        transform: translateY(0);
+        animation-timing-function: ease-in;
+    }
+
+    75% {
+        transform: translateY(5%);
+        animation-timing-function: ease-out;
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+
+}
